@@ -80,4 +80,4 @@ row 2 col 1 | row 2 col 2 |  row 1 col 2 | row 1 col 2
 
 **Latex** aaaa
 
-![image](http://note.youdao.com/favicon.ico)
+![YOUKU](http://static.youku.com/youku/dist/img/find/yk-logo-1220.png)
