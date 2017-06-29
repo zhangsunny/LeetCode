@@ -87,7 +87,8 @@ Selenium是一个用于Web应用程序测试的工具。Selenium测试直接运�
 5.	>>>brower.get('http://www.amazon.com')
 ```
 
-你会注意到，当webdriver.Firefox()被调用时，FireFox浏览器启动了。对值webdriver.Firefox()调用type()，揭示它具有WebDriver数据类型。调用brower.get(‘http://www.amazon.com’)将浏览器指向[Amazon](http://www.amazon.com)。浏览器应该看起来如下图所示：
+你会注意到，当webdriver.Firefox()被调用时，FireFox浏览器启动了。对值webdriver.Firefox()调用type()，揭示它具有WebDriver数据类型。调用brower.get(‘http://www.amazon.com’)将浏览器指向[Amazon](http://www.amazon.com)。
+浏览器应该看起来如下图所示：
 
 ![图 命令行中调用webdriver.Firfox()和get()后，Firefox浏览器出现了](http://i1.buimg.com/1949/5de8ffd686896e19.png)
 
